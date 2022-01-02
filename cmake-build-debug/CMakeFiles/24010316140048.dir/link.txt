@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/24010316140048.dir/mSLLC.c.o CMakeFiles/24010316140048.dir/SLLC.c.o  -o 24010316140048 
